@@ -1,10 +1,8 @@
-<img src="https://github.com/withvenny/venny-apis-messaging-php/blob/master/venny-apis-cover-Messaging.png">
+<img src="https://github.com/withvenny/venny-apis-core-php/blob/master/venny-apis-cover-Core.png">
 
-# Messaging from Venny
+# Core from Venny
 
-A direct message management API.
-
-We believe that enabling users to exchange messages securely is a cornerstone of modern digital experiences.
+An operations management API.
 
 Using Venny I/O APIs and React Native (via Expo) we'll explore a mobile experience framework you can evolve into your own.
 
